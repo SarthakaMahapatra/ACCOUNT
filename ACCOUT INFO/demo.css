@@ -1,0 +1,117 @@
+html{
+    background-color: rgb(254, 254, 254)
+}
+.grid-container{
+    display: grid;
+    padding:10px;
+    grid-template-columns: auto auto auto;
+}
+.header{
+    border:1px outset none; 
+    border-radius: 5px;
+    padding:80px;
+    width:300px;
+    height:480px;
+    position:relative;
+    left:167px;
+    font-family: Calibri;
+    font-size: 20px;
+    box-shadow: 3px 15px 10px rgb(228, 228, 228);
+}
+.footer{
+    border:1px outset none;
+    border-radius: 5px;
+    padding:20px;
+    width:700px;
+    height:600px;
+    position:relative;
+    left:67px;
+    box-shadow: 15px 15px 10px rgb(228, 228, 228)
+}
+h2{
+    position: relative;
+    left: 250px;
+    top:80px;
+    font-size: 40px;
+    font-family: Calibri;
+
+}
+p{
+    font-size: 15px;
+}
+.label1{
+    position: relative;
+    top:150px;
+    left:220px;
+    width:300px;
+    height:40px;
+    border:inset;
+    border-radius: 6px;
+}
+.label2{
+    position: relative;
+    top:165px;
+    left:220px;
+    width:300px;
+    height:40px;
+    border:inset;
+    border-radius: 6px;
+}
+.label3{
+    position: relative;
+    top:175px;
+    left:220px;
+    width:300px;
+    height:40px;
+    border:inset;
+    border-radius: 6px;
+}
+.P1{
+    position: relative;
+    top: 120px;
+    font-size: 15px;
+}
+.P2{
+    position: relative;
+    top: 70px;
+    font-size: 15px;
+    left:50px;
+}
+.P3{
+    position: relative;
+    left: 270px;
+    top:150px;
+    font-family: Calibri;
+}
+.signin{
+    background-color: blue;
+    color:white;
+    width:150px;
+    height:45px;
+    border:none;
+    border-radius:200px;
+    position: relative;
+    top:120px;
+    left:60px;
+}
+.signup{
+    background-color: blue;
+    color:white;
+    width:150px;
+    height:45px;
+    border:none;
+    border-radius:200px;
+    position: relative;
+    top:200px;
+    left:290px;
+}
+h1{
+    position: relative;
+    top:120px;
+}
+a{
+    position:relative;
+    top:100px;
+    left:250px;
+    width:50px;
+}
